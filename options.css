@@ -1,0 +1,92 @@
+#total{
+background-color: indigo;
+    border-radius: 15px;
+    border-top: 10px solid purple;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    color: white;
+    width: 20%;
+    font-size: 100px;
+    font-family: cursive;
+}
+#totall{
+    background-color: indigo;
+        text-align: center;
+        color: white;
+        font-size: 100px;
+        font-family: cursive;
+        border: indigo;
+    }
+body{
+    background-image: linear-gradient(yellow, violet);
+}
+#yo{
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+}
+#item1{
+background-color: yellowgreen;
+border-radius: 15px;
+border-top: 10px solid green;
+padding: 10px;
+float: left;
+text-align: center;
+color: white;
+width: 20%;
+font-size: 100px;
+font-family: cursive;
+margin-left: 40px;
+}
+#item11{
+    background-color: yellowgreen;
+        text-align: center;
+        color: white;
+        font-size: 100px;
+        font-family: cursive;
+        border: yellowgreen;
+    }
+
+
+#item3{
+background-color: skyblue;
+border-radius: 15px;
+border-top: 10px solid blue;
+margin-right: 10px;
+float: right;
+text-align: left;
+color: white;
+width: auto;
+font-size: 100px;
+font-family: cursive;
+}
+#item2{
+    background-color: magenta;
+    border-radius: 15px;
+    border-top: 10px solid red;
+    padding: 10px;
+    float: right;
+    text-align: center;
+    color: white;
+    width: 20%;
+    font-size: 100px;
+    font-family: cursive;
+    margin-right: 40px;
+    }
+#item22{
+    background-color: magenta;
+        text-align: center;
+        color: white;
+        font-size: 100px;
+        font-family: cursive;
+        border: yellowgreen;
+    }
+#item33{
+    background-color: skyblue;
+        text-align: center;
+        color: white;
+        font-size: 100px;
+        font-family: cursive;
+        border: yellowgreen;
+    }

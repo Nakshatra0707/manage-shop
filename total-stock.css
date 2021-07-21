@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(purple, indigo);
+}
+#back{
+height: 75px;
+    width: 100px;
+    border-radius: 15px;
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+}
+#ok{
+    background-color: magenta;
+    border-radius: 15px;
+    border-top: 10px solid red;
+    padding: 10px;
+    float: none;
+    text-align: center;
+    color: white;
+    width: 25%;
+    margin-top: 150px;
+}

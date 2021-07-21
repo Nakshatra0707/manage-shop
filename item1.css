@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(green, yellowgreen);
+    font-size: 60px;
+}
+input{
+    width: 150px;
+}
+.minus{
+    background-color: red;
+    height: 50px;
+    width:100px;
+    font-size: 30px;
+}
+.plus{
+    background-color: green;
+    height: 50px;
+    width:100px;
+    font-size: 30px;
+}
+#back{
+    height: 75px;
+    width: 100px;
+    border-radius: 15px;
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+}
